@@ -2,8 +2,8 @@
 
 [![Join the chat at https://gitter.im/ip-nonlinear-solver/GSoC2017](https://badges.gitter.im/ip-nonlinear-solver/GSoC2017.svg)](https://gitter.im/ip-nonlinear-solver/GSoC2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A trust-region interior-point method for general nonlinear programing problems. The implemetation
-a GSoC project for Scipy. A series of blog post describe different aspects of the algorithm
+A trust-region interior-point method for general nonlinear programing problems. This implemetation
+was a GSoC project for Scipy. A series of blog post describe different aspects of the algorithm
 and its use  ([link](https://antonior92.github.io/tags/#gsoc-2017)).
 
 The implementation is being
